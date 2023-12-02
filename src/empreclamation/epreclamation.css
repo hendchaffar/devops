@@ -1,0 +1,46 @@
+/* styles.css */
+
+.reclamations-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+  }
+  
+  .reclamation-card {
+    width: 18rem;
+    margin-bottom: 1rem;
+  }
+  
+  .add-button {
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .modal-body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .modal-footer {
+    justify-content: space-between;
+  }
+  
+  .save-button {
+    background-color: #28a745;
+  }
+  
+  .close-button {
+    background-color: #dc3545;
+  }
+  

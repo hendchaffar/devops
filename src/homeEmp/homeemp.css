@@ -1,0 +1,29 @@
+/* Home.css */
+.navbar-container {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .home-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .welcome-message {
+    color: #333;
+  }
+  
+  .page-description {
+    color: #666;
+  }
+  
